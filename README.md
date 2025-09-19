@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pixel Art Generator
 
 A simple, interactive, web-based tool for creating pixel art directly in your browser. Design and draw your own pixelated masterpieces with a customizable grid, a color picker, and the ability to save your creations.
